@@ -1,0 +1,25 @@
+/* .ScrollStyle
+{
+    max-height: 150px;
+    overflow-y: scroll;
+} */
+.req_ib h5{ font-size:15px; color:#464646; margin:0 0 10px 0;}
+.req_ib p button{ font-size:15px; float:right;width: 90px}
+.req_ib p{ font-size:14px; color:#989898; margin:auto}
+.req_img {
+  float: left;
+  width: 11%;
+}
+.req_ib {
+  float: left;
+  padding: 0 0 0 15px;
+  width: 88%;
+}
+
+.req_people{ overflow:hidden; clear:both;}
+.req_list {
+  border-bottom: 1px solid #c4c4c4;
+  margin: 0;
+  padding: 18px 16px 10px;
+}
+.friend_request { height: 350px; overflow-y: scroll;}
